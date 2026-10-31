@@ -12,13 +12,13 @@ These are projects I have worked on and continue to develop. **Their source repo
 
 | Project | What it's about | Areas explored |
 | --- | --- | --- |
-| **PlayLobby** | A browser-based platform for social and multiplayer party games, focused on people interacting together in shared, synchronized sessions. | Web apps, multiplayer experiences, UX, deployment, troubleshooting |
+| **[PlayLobby](https://github.com/caiovitor2006-gif/PlayLobby-Showcase)** | A browser-based platform for social and multiplayer party games, focused on shared, synchronized sessions. **[Live platform](https://playlobby.online)** · [Public showcase](https://github.com/caiovitor2006-gif/PlayLobby-Showcase) | Web apps, multiplayer experiences, UX, deployment, troubleshooting |
 | **VipersLike** | A competitive multiplayer game developed in Godot, built around arena mechanics and synchronized players. | Godot, GDScript, networking, game logic, testing |
 | **Acting Out** | A multiplayer improvisational acting game prototype, where players collaboratively shape a story across different takes. | Godot, ENet networking, voice systems, interaction design |
 | **Beat Lab / Beat Reconstructor MIDI** | An experimental music and media toolkit with audio separation, analysis tools, visualizers, and a separate Karaoke Generator + timeline editor prototype. | Python, FastAPI, audio processing, JavaScript, debugging |
 | **Collaborative Studio** | A Windows + web prototype for remote media sessions, shared rooms, participant permissions, and independent production controls. | Electron, Node.js, WebRTC, LiveKit, API design |
 
-> **Portfolio note:** Project documentation, demonstrations, and publicly shareable examples are being organized. Private repositories are not accessible to external visitors.
+> **Portfolio note:** PlayLobby has a public, documentation-only showcase and live demo links. The original application source repositories remain private and are not accessible to external visitors.
 
 ## 🧩 What I bring to a team
 
