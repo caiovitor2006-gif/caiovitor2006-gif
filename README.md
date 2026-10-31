@@ -14,10 +14,10 @@ These are projects I have worked on and continue to develop. **Their source repo
 | --- | --- | --- |
 | **[PlayLobby](https://github.com/caiovitor2006-gif/PlayLobby-Showcase)** | A browser-based platform for social and multiplayer party games, focused on shared, synchronized sessions. **[Live platform](https://playlobby.online)** · [Public showcase](https://github.com/caiovitor2006-gif/PlayLobby-Showcase) | Web apps, multiplayer experiences, UX, deployment, troubleshooting |
 | **VipersLike** | A competitive multiplayer game developed in Godot, built around arena mechanics and synchronized players. | Godot, GDScript, networking, game logic, testing |
-| **Beat Lab / Beat Reconstructor MIDI** | An experimental music and media toolkit with audio separation, analysis tools, visualizers, and a separate Karaoke Generator + timeline editor prototype. | Python, FastAPI, audio processing, JavaScript, debugging |
+| **[Beat Lab / Beat Reconstructor MIDI](https://github.com/caiovitor2006-gif/BeatLab-Showcase)** | An experimental music and media toolkit with audio separation, analysis tools, visualizers, and a separate Karaoke Generator + timeline editor prototype. **[Public showcase & screenshots](https://github.com/caiovitor2006-gif/BeatLab-Showcase)** | Python, FastAPI, audio processing, JavaScript, debugging |
 | **Collaborative Studio** | A Windows + web prototype for remote media sessions, shared rooms, participant permissions, and independent production controls. | Electron, Node.js, WebRTC, LiveKit, API design |
 
-> **Portfolio note:** PlayLobby has a public, documentation-only showcase and live demo links. The original application source repositories remain private and are not accessible to external visitors.
+> **Portfolio note:** PlayLobby and Beat Lab have public, documentation-only showcases. PlayLobby also has a live platform; Beat Lab screenshots show a local development interface, not a hosted demo. The original application source repositories remain private.
 
 ## 🧩 What I bring to a team
 
