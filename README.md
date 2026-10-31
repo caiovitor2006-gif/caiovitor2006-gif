@@ -14,7 +14,6 @@ These are projects I have worked on and continue to develop. **Their source repo
 | --- | --- | --- |
 | **[PlayLobby](https://github.com/caiovitor2006-gif/PlayLobby-Showcase)** | A browser-based platform for social and multiplayer party games, focused on shared, synchronized sessions. **[Live platform](https://playlobby.online)** · [Public showcase](https://github.com/caiovitor2006-gif/PlayLobby-Showcase) | Web apps, multiplayer experiences, UX, deployment, troubleshooting |
 | **VipersLike** | A competitive multiplayer game developed in Godot, built around arena mechanics and synchronized players. | Godot, GDScript, networking, game logic, testing |
-| **Acting Out** | A multiplayer improvisational acting game prototype, where players collaboratively shape a story across different takes. | Godot, ENet networking, voice systems, interaction design |
 | **Beat Lab / Beat Reconstructor MIDI** | An experimental music and media toolkit with audio separation, analysis tools, visualizers, and a separate Karaoke Generator + timeline editor prototype. | Python, FastAPI, audio processing, JavaScript, debugging |
 | **Collaborative Studio** | A Windows + web prototype for remote media sessions, shared rooms, participant permissions, and independent production controls. | Electron, Node.js, WebRTC, LiveKit, API design |
 
